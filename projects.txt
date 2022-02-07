@@ -1,4 +1,22 @@
+main:
 (archived 02/07/2022) 3D Render: https://www.desmos.com/calculator/zqnwoze8tq
 (archived 02/07/2022) 3D Render2: https://www.desmos.com/calculator/jtwn9flpwp
+(archived 02/07/2022) Hyperbolic Tiling: https://www.desmos.com/calculator/6fcjsxkirw
+(archived 02/07/2022) PID: https://www.desmos.com/calculator/a0oei3xlmg
+(archived 02/07/2022) Linear Classification: https://www.desmos.com/calculator/xkshfmoj3h
+(archived 02/07/2022) Unsupervised Linear Classification: https://www.desmos.com/calculator/p9hna6zrql
+(archived 02/07/2022) Mandlebrot: https://www.desmos.com/calculator/8dlfvwtpz2
+(archived 02/07/2022) Euler Method: https://www.desmos.com/calculator/b8cucqfeqf
 
-(add more when have time)
+POC:
+(archived 02/07/2022) Tiling: https://www.desmos.com/calculator/8atchds2z8
+(archived 02/07/2022) Grid warp: https://www.desmos.com/calculator/kebfrrhwlj
+(archived 02/07/2022) Diamonds: https://www.desmos.com/calculator/vu5r0ffgzj
+(archived 02/07/2022) Arc rendering: https://www.desmos.com/calculator/ll7misxlj3
+(archived 02/07/2022) Trail: https://www.desmos.com/calculator/m8835l8ner
+(archived 02/07/2022) Nearest Point: https://www.desmos.com/calculator/au4bhz607x
+
+Source: 
+(archived 02/07/2022) List Operations: https://www.desmos.com/calculator/oxllqvekhb
+(archived 02/07/2022) Intersection of two lines: https://www.desmos.com/calculator/hfoxlleyax
+(archived 02/07/2022) Distance to a line: https://www.desmos.com/calculator/8pzm8uyp0x
