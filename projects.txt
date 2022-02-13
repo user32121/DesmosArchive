@@ -7,7 +7,7 @@ main:
 (archived 02/07/2022) Unsupervised Linear Classification: https://www.desmos.com/calculator/p9hna6zrql
 (archived 02/07/2022) Mandlebrot: https://www.desmos.com/calculator/8dlfvwtpz2
 (archived 02/07/2022) Euler Method: https://www.desmos.com/calculator/b8cucqfeqf
-(archived 02/11/2022) Bubble Sort: https://www.desmos.com/calculator/39whqsuyvo
+(archived 02/11/2022) Bubble Sort: https://www.desmos.com/calculator/d75dcyx18g
 (archived 02/13/2022) Fourier Series 2d: https://www.desmos.com/calculator/xpydw4gjgv
 
 POC:
