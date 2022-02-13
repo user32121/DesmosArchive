@@ -19,6 +19,6 @@ POC:
 (archived 02/07/2022) Nearest Point: https://www.desmos.com/calculator/au4bhz607x
 
 Source: 
-(archived 02/07/2022) List Operations: https://www.desmos.com/calculator/oxllqvekhb
+(archived 02/07/2022) List Operations: https://www.desmos.com/calculator/iewvoppa2b
 (archived 02/07/2022) Intersection of two lines: https://www.desmos.com/calculator/hfoxlleyax
 (archived 02/07/2022) Distance to a line: https://www.desmos.com/calculator/8pzm8uyp0x
