@@ -1,7 +1,7 @@
 main:
 (archived 02/07/2022) 3D Render: https://www.desmos.com/calculator/zqnwoze8tq
 (archived 02/07/2022) 3D Render2: https://www.desmos.com/calculator/jtwn9flpwp
-(archived 02/07/2022) Hyperbolic Tiling: https://www.desmos.com/calculator/6fcjsxkirw
+(archived 02/07/2022) Hyperbolic Tiling: https://www.desmos.com/calculator/f04vdgrzb0
 (archived 02/07/2022) PID: https://www.desmos.com/calculator/a0oei3xlmg
 (archived 02/07/2022) Linear Classification: https://www.desmos.com/calculator/xkshfmoj3h
 (archived 02/07/2022) Unsupervised Linear Classification: https://www.desmos.com/calculator/p9hna6zrql
