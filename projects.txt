@@ -8,6 +8,7 @@ main:
 (archived 02/07/2022) Euler Method: https://www.desmos.com/calculator/b8cucqfeqf
 (archived 02/11/2022) Bubble Sort: https://www.desmos.com/calculator/d75dcyx18g
 (archived 02/13/2022) Fourier Series 2d: https://www.desmos.com/calculator/xpydw4gjgv
+(archived 02/10/2023) Fractions: https://www.desmos.com/calculator/66auy6bg3y
 
 POC:
 (archived 02/07/2022) Tiling: https://www.desmos.com/calculator/8atchds2z8
